@@ -1,0 +1,6 @@
+{
+  "name": "Neon Downloader",
+  "description": "80s Neon styled downloader for Instagram, YouTube, and direct links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
